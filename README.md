@@ -16,7 +16,7 @@
 
 # Nonogram solver
 
-Simple console program solves a given [Nonogram](https://en.wikipedia.org/wiki/Nonogram).  While the problem is proven to be NP-complete, most (sane) puzzles you're likely to find should be solvable in polynomial time, which is also covered by this program.
+Simple console program solve a given [Nonogram](https://en.wikipedia.org/wiki/Nonogram).  While the problem is proven to be NP-complete, most (sane) puzzles you're likely to find should be solvable in polynomial time, which is also covered by this program.
 
 No external libraries are used.  Requires C++11.
 
